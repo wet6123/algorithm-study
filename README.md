@@ -41,7 +41,11 @@ SSAFY 7기 알고리즘 스터디
 | 12/06 | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | [친구](https://www.acmicpc.net/problem/1058) | [올바른 배열](https://www.acmicpc.net/problem/1337) | 임현호 |  | 박예인, 김민지 |  |
 | 12/13 | [아기 상어 2](https://www.acmicpc.net/problem/17086) | [회전 초밥](https://www.acmicpc.net/problem/2531) | [거짓말](https://www.acmicpc.net/problem/1043) | 배준성 |  | 배준성, 유동윤 |  |
 | 12/20 | [비숍](https://www.acmicpc.net/problem/1799) | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [근손실](https://www.acmicpc.net/problem/18429) | 김보경 |  | 임현호, 김보경 |  |
-| 12/27 | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | 김민지 | 2018 카카오 블라인드 |  |  |
+| 12/27 | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | 김민지 | 2018 카카오 블라인드 |  | 박예인, 유동윤, 배준성, 임현호  |
+| 01/03 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [동전 1](https://www.acmicpc.net/problem/2293) | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | 유동윤 (진행 **임현호**) |  | 김보경 | 유동윤  |
+| 01/17 | [숫자 고르기](https://www.acmicpc.net/problem/2668) | [비슷한 단어](https://www.acmicpc.net/problem/2179) | [주식](https://www.acmicpc.net/problem/11501) | 박예인 |  |  |   |
+| 01/26 | [트리]( https://www.acmicpc.net/problem/1068) | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [스타트와 링크](https://www.acmicpc.net/problem/14889) | 임현호 |  |  |   |
+| 02/07 | [약수의 합](https://www.acmicpc.net/problem/17425) | [에너지 모으기](https://www.acmicpc.net/problem/16198) | [로봇 청소기](https://www.acmicpc.net/problem/14503) | 김보경 |  | 임현호, 박예인 |   |
 
 ## 참고사항
 ### 과제 제출
